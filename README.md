@@ -107,12 +107,11 @@ python manage.py runserver
 ---
 
 ## 📸 Screenshots
+### 🔐 Login Page
+![Login](screenshots/login.png)
 
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
-
-### 🔐 Login Page
-![Login](screenshots/login.png)
 
 ### 🔍 Detection Page
 ![Detection](screenshots/detection.png)
