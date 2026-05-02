@@ -116,7 +116,7 @@ python manage.py runserver
 ### 🔍 Detection Page
 ![Detection](screenshots/detection.png)
 
-### 📝 Rsult Page
+### 📝 Result Page
 ![Signup](screenshots/result.png)
 
 ### 📊 Prediction Page
